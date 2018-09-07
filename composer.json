@@ -1,0 +1,12 @@
+{
+  "name": "kam2r/report",
+  "description": "Web-reports",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "classmap": ["report/"]
+  }
+}
