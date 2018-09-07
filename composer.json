@@ -8,5 +8,6 @@
   },
   "autoload": {
     "classmap": ["report/"]
-  }
+  },
+  "minimum-stability": "dev"
 }
