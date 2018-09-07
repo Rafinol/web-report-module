@@ -1,7 +1,6 @@
 {
   "name": "kam2r/report",
   "description": "Web-reports",
-  "version": "v2.0.0",
   "license": "proprietary",
   "require": {
     "yiisoft/yii2": "*",
