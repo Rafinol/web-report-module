@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "license": "proprietary",
   "require": {
-    "yiisoft/yii2": "*"
+    "yiisoft/yii2": "*",
+    "php" : ">=5.6.0"
+
   },
   "autoload": {
     "classmap": ["report/"]
