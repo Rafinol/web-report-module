@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\report;
+namespace kam2r\report\report;
 
 /**
  * report module definition class

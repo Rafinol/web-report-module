@@ -1,9 +1,9 @@
 <?php
 
-namespace frontend\modules\report\controllers;
+namespace kam2r\report\report\controllers;
 
-use frontend\modules\report\services\Eventsrepo;
-use frontend\modules\report\services\Repo;
+use kam2r\report\report\services\Eventsrepo;
+use kam2r\report\report\services\Repo;
 use shop\entities\Event;
 use yii\data\ActiveDataProvider;
 use yii\web\Controller;

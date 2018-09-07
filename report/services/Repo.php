@@ -1,5 +1,5 @@
 <?php
-namespace frontend\modules\report\services;
+namespace kam2r\report\report\services;
 
 use shop\entities\Event;
 
