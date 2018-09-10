@@ -41,6 +41,7 @@ class DefaultController extends Controller
             throw new HttpException(403, 'Недостаточно прав для соверешния данной операции');
         $event = Event::findOne($id);
         $report = new Repo($event);
+        $report = $report->getReport();
         return $this->render('event', compact('event','report'));
     }
 }
