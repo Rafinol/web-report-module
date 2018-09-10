@@ -20,8 +20,7 @@ composer require kam2r/report
 
 **3. Выполните миграции**
 ```
-php yii migrate/up --migrationPath=@vendor/kam2r/report/report/migr
-ations
+php yii migrate/up --migrationPath=@vendor/kam2r/report/report/migrations
 
 ```
 

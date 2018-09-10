@@ -10,11 +10,6 @@ class Report extends \yii\base\Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'frontend\modules\report\controllers';
-
-    /**
-     * {@inheritdoc}
-     */
     public function beforeAction($action)
     {
 
