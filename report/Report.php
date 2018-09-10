@@ -1,7 +1,7 @@
 <?php
 
 namespace kam2r\report\report;
-
+use Yii;
 /**
  * report module definition class
  */
