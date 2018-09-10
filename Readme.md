@@ -2,7 +2,7 @@
 
 **1. Установите пакет**
 ```
-composer require kam2r/report v2.0.3
+composer require kam2r/report v2.0.6
 ```
 **2. Пропишите в конфиге frontend/main модуль report**
 ```
