@@ -4,7 +4,7 @@
 ```
 composer require kam2r/report
 ```
-**2. Пропишите в конфиге frontend/main модуль report**
+**2. Пропишите в конфиге frontend/main модуль report v2.0.3**
 ```
 'report' => [
             'class' => 'kam2r\report\report\Report',
