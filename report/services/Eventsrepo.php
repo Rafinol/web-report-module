@@ -1,6 +1,6 @@
 <?php
 
-namespace kam2r\report\report\report\services;
+namespace kam2r\report\report\services;
 
 
 use shop\entities\Event;
