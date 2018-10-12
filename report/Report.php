@@ -1,6 +1,7 @@
 <?php
 
 namespace kam2r\report\report;
+use HttpException;
 use Yii;
 /**
  * report module definition class
