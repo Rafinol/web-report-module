@@ -26,7 +26,6 @@ class Report extends \yii\base\Module
             throw new HttpException(400, 'Недостаточно прав');
         Yii::$app->getResponse()->redirect(Yii::$app->getHomeUrl());
         return false;
-
     }
 
     public function init()
