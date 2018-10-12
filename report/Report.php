@@ -19,8 +19,10 @@ class Report extends \yii\base\Module
 
         if (!Yii::$app->user->isGuest && \Yii::$app->user->can('view_reports'))
             return true;
-
-
+        if (Yii::$app->user->isGuest)
+            throw new HttpException(500, 'Пожалуйста, авторизуйтесь на сайте');
+        if (!\Yii::$app->user->can('view_reports'))
+            throw new HttpException(400, 'Недостаточно прав');
         Yii::$app->getResponse()->redirect(Yii::$app->getHomeUrl());
         return false;
 
