@@ -17,8 +17,8 @@ class Eventsrepo
     public function getEventsQuery()
     {
         if($events = $this->getAllowedEventsForMe())
-            return Event::find()->where(['id' => $events])->orderBy(['id'=>SORT_DESC]);
-        return Event::find()->orderBy(['id'=>SORT_DESC]);
+            return Event::find()->where(['id' => $events])->orderBy(['SDate'=>SORT_DESC]);
+        return Event::find()->orderBy(['SDate'=>SORT_DESC]);
     }
 
     private function getAllowedEventsForMe(){
