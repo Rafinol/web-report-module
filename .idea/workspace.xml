@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baaa1a0a-a0f6-4757-a7b7-0921026ab3af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report/services/Eventsrepo.php" afterPath="$PROJECT_DIR$/report/services/Eventsrepo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -71,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Eventsrepo.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Eventsrepo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/report/services/Eventsrepo.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="754">
@@ -112,12 +111,12 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/report/services/Repo.php" />
         <option value="$PROJECT_DIR$/report/controllers/DefaultController.php" />
-        <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/report/views/default/event.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/modal.css" />
         <option value="$PROJECT_DIR$/report/Report.php" />
         <option value="$PROJECT_DIR$/report/services/Eventsrepo.php" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -205,12 +204,12 @@
       <workItem from="1536308902845" duration="5647000" />
       <workItem from="1536569540395" duration="3538000" />
       <workItem from="1539329301295" duration="1017000" />
-      <workItem from="1570713501265" duration="149000" />
+      <workItem from="1570713501265" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10351000" />
+    <option name="totallyTimeSpent" value="10503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -459,17 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/report/views/default/event.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -528,6 +516,17 @@
         <state relative-caret-position="754">
           <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
